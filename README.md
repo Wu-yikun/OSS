@@ -16,6 +16,10 @@
 
 ## 💖Github + JsDelivr（推荐）
 
+![](https://cdn.jsdelivr.net/gh/Wu-yikun/OSS/PicGo/202301111508695.png)
+
+![](https://cdn.jsdelivr.net/gh/Wu-yikun/OSS/PicGo/202301111507003.png)
+
 `Github` 的图床思路和 `Gitee` 是一样的，但是就目前个人使用体验来说，`Github` 的稳定性是更胜一筹的，所以我的图床一出问题，我就快速切换到这个方案应急。
 
 配置起来也还是很方便（默认你会使用Github），首先新建一个公开仓库：
