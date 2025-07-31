@@ -21,8 +21,9 @@
 ![image-20250731163842216](https://cdn.jsdelivr.net/gh/coooredump/OSS/img/202507311638308.png)
 
 > 关于 uPic 配置：https://blog.svend.cc/upic/tutorials/github/
+> ⚠️ 需要将 Save Key 改成 `uPic/{year}-{month}-{day}-{hour}-{minute}-{second}{.suffix}` 才可以触发 Typora 的自动上传，否则 url 不符合 typora 自动上传的文件路径
 
-![](https://cdn.jsdelivr.net/gh/Wu-yikun/OSS/PicGo/202507311856284.png)
+![2025-07-31-22-03-57](https://cdn.jsdelivr.net/gh/Wu-yikun/OSS@master/uPic/2025-07-31-22-03-57.png)
 
 `Github` 的图床思路和 `Gitee` 是一样的，但是就目前个人使用体验来说，`Github` 的稳定性是更胜一筹的，所以我的图床一出问题，我就快速切换到这个方案应急。
 
